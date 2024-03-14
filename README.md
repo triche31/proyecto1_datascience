@@ -3,7 +3,7 @@
 
 En este proyecto el objetivo que tenemos es el de hacer un proceso de ETL: extracción, transformación y carga.
 
-Lo hacemos a través de llamadas a la API de la red eléctrica española: https://apidatos.ree.es/es/datos/
+Lo hacemos a través de llamadas a la API de la red eléctrica española: https://www.ree.es/es/apidatos
 
 Nos resultaba complicado tener las regiones con sus correspondientes estructuras, (si es la zona peninsular, si es a nivel de comunidad autónoma, si se trata de Canarias, Baleares,
 Ceuta o Melilla) y los códigos que tenemos en la web de la ree, por ello nos copiamos la información y lo pasamos a un excel, que es el fichero que aquí se encuentra con el nombre de Regiones.xlsx
